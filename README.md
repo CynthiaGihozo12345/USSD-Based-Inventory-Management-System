@@ -86,7 +86,7 @@ Optional: Use a USSD Testing Tool
 To simulate USSD more accurately, you can use:
 •	Africa's Talking Sandbox
 •	Postman
-
+in this app o	The admin can view only their own changes to the database, not those made by other admin.
 
 Developer’s Name:
 •	ISHIMIRWE GIHOZO Cynthia
