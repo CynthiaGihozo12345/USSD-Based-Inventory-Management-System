@@ -37,7 +37,6 @@ o	Admin then inputs:
 o	The system records the stock-in operation.
 6.	Product Out
 o	Admin must Enter Product Name and provides quantity being taken out of stock.
-o	The admin can view only their own changes to the database, not those made by other admin.
 o	This helps maintain an accurate inventory.
 8.	View Products,stock, stockin and stockout.
 o	Displays all product names along with stock quantities.
@@ -87,7 +86,7 @@ Optional: Use a USSD Testing Tool
 To simulate USSD more accurately, you can use:
 •	Africa's Talking Sandbox
 •	Postman
-
+So in this app o	The admin can view only their own changes to the database, not those made by other admin.
 
 Developer’s Name:
 •	ISHIMIRWE GIHOZO Cynthia
